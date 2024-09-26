@@ -1,0 +1,33 @@
+[
+    {
+      "user_id": 1,
+      "username": "john_doe",
+      "user_email": "john.doe@example.com",
+      "user_status":0
+    },
+    {
+      "user_id": 2,
+      "username": "jane_smith",
+      "user_email": "jane.smith@example.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 3,
+      "username": "alice_jones",
+      "user_email": "alice.jones@example.com",
+      "user_status": 0
+    },
+    {
+      "user_id": 4,
+      "username": "bob_brown",
+      "user_email": "bob.brown@example.com",
+      "user_status": 1
+    },
+    {
+      "user_id": 5,
+      "username": "carla_williams",
+      "user_email": "carla.williams@example.com",
+      "user_status": 0
+    }
+  ]
+  
